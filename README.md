@@ -1,9 +1,6 @@
-# profile-readme
-my personal repo
-
-
-Hi 👋, I'm Priscilla Tan
+# Hi 👋, I'm Priscilla Tan
 I'm a Computer Science Student at Singapore University of Technology and Design
+
 
 🔭 I’m currently working on a project
 
