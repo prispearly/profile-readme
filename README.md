@@ -10,6 +10,6 @@ I'm a Computer Science Student at Singapore University of Technology and Design
 
 📫 Reach me at priscilla_tan@mymail.sutd.edu.sg
 
-Languages
+Languages:
 java python 
 
